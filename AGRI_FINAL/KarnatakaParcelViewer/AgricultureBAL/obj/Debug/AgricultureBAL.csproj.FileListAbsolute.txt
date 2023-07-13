@@ -1,0 +1,251 @@
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\backup123\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Mono.Security.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\Npgsql.xml
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\de\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\es\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fi\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\fr\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\ja\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureBAL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\AgricultureDAL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\bin\Debug\CL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.csprojResolveAssemblyReference.cache
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\AgricultureBAL\obj\Debug\AgricultureBAL.pdb

@@ -1,0 +1,355 @@
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+E:\agri04-02-16\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\09.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\backup123\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\10.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\11.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\Final Ready 11.02.2016\after total\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\11.02.2016 afternoon\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\Final Ready 11.02.2016\Final_11.02.2016 After\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\11.02.2016\Final\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\12.02.2016\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+F:\Agriculture\Application\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+E:\16-02-16\agri_with_jqx\Project\Project\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+E:\agri 16-02-16\Backup\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+E:\agri 16-02-16\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+E:\SHARE\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Mono.Security.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Npgsql.xml
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\de\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\es\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fi\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\fr\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\ja\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\zh-CN\Npgsql.resources.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+H:\22.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll.config
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\KarnatakaParcelViewer.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureBAL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\CL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\Newtonsoft.Json.xml
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\bin\AgricultureDAL.pdb
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.dll
+E:\Agriculture\23.02.2016\Dashboard\AGRI_FINAL\KarnatakaParcelViewer\KarnatakaParcelViewer\obj\Debug\KarnatakaParcelViewer.pdb

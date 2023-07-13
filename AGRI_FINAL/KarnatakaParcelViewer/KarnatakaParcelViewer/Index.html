@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Karnartaka Parcel Info</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!--The viewport meta tag is used to improve the presentation and behavior of the samples
+      on iOS devices-->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no" />
+    <!--Dojo  Themes-->
+    <link rel="stylesheet" href="http://js.arcgis.com/3.13/dijit/themes/claro/claro.css">
+    <!--Esri css file-->
+    <link rel="stylesheet" href="http://js.arcgis.com/3.13/esri/css/esri.css">
+
+    <link href="js/agsjs/css/agsjs.css" rel="stylesheet" />
+    <!--Jquery UI Css Files-->
+    <link href="js/jquery-ui-1.11.4.custom/jquery-ui.css" rel="stylesheet" />
+    <link href="js/jquery-ui-1.11.4.custom/jquery-ui.structure.css" rel="stylesheet" />
+    <link href="js/jquery-ui-1.11.4.custom/jquery-ui.theme.css" rel="stylesheet" />
+    <!--Jqury core & UI ( Darkness)-->
+    <script src="js/jquery/jquery.js"></script>
+    <script src="js/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+    <!--Jquery layout-->
+    <script src="js/jquery.layout-latest.js"></script>
+
+    <script>
+    var dojoConfig = {
+        paths: { agsjs: location.pathname.replace(/\/[^/]+$/, "") + "/../js/agsjs/" }
+    };
+    </script>
+    <!--Esri JS API-->
+    <script src="http://js.arcgis.com/3.13/"></script> 
+
+
+    <link href="css/main.css" rel="stylesheet" />
+    <script src="js/AppConfig.js"></script>
+    <script src="js/Layout.js"></script>
+    <script src="js/app.js"></script>
+</head>
+<body class="claro">
+    <!--Map Control-->
+    <div class="ui-layout-center" id="divMap" style="z-index:1;">
+        <div id="latlong" style="position:absolute;right:50px;bottom:40px;color:black;z-index:999;">
+
+        </div>
+    </div>
+    <div class="ui-layout-north">
+        <div class="headerIcon">
+            <img src="images/ksrsac.png" style="width: 60px; height: 60px; z-index: 99999;" />
+        </div>
+
+        <div class="header" style="vertical-align: middle;">
+            <label id="lblAppName">
+                CRD Project
+            </label>
+        </div>
+        <div class="ui-layout-content ui-widget-content">
+            <table id="MainMenu" style="height: 100%;">
+                <tr>
+                    <td>
+                        <img src="images/Icons/imgBaseMap.png" id="btnBasemap" class="buttonclass" title="Switch Basemap" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/i_search.png" id="btnSearchtools" title="Search Tools" class="buttonclass" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/i_draw.png" id="btnsearchbygraphicstools" title="Search Tools" class="buttonclass" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/i_nav.png" class="buttonclass" id="btnNavigation" title="Navigation Tools" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/i_table.png" class="buttonclass" id="btnAttributeInfo" title="Attribute Info" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/i_info.png" class="buttonclass" id="btnIdentify" title="Identify" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/Legend16.png" class="buttonclass" id="btnLegend" title="Legend" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/i_measure.png" class="buttonclass" id="btnMeasure" title="Measurement Tools" />
+                    </td>     
+
+                    <td>
+                        <img src="images/Icons/i_recycle.png" class="buttonclass" id="btnClearGraphics" title="Clear Graphics" />
+                    </td>
+                    <td>
+                        <img src="images/Icons/building.png" class="buttonclass" id="btnGetAddress" title="Help" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+
+    <!-- Base map Dialog    -->
+    <div id="BasemapsDialog" title="Switch Basemaps" style="font-size: 12px;">
+        <div id="basemapGalleryDiv"></div>
+    </div>
+
+    <!-- Base map Dialog    -->
+    <div id="LegendDialog" title="Table of Contents" style="font-size: 12px;">
+        <div id="tocDIV"></div>
+    </div>
+
+    <!-- Base map Dialog    -->
+    <div id="GeocodingDialog" title="GetLat/Long" style="font-size: 12px;">
+        <table style="width:100%;">
+            <tr>
+                <td>Address :</td>
+                <td><input id="txtAddress" type="text" style="width:250px;"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input id="btnSeachAddress" type="button" value="Locate Address" /></td>
+            </tr>
+        </table>
+    </div>
+
+
+    <!--   Search by Graphics Tools-->
+    <!--<div id="SearchbyGraphicsTools" title="Select by Graphics" style="display: none; font-size: 12px; z-index: 5;">
+        <table style="width: 100%; height: 100%">
+            <tr>
+                <td>
+                    <img src="images/Icons/i_draw_rect.png" alt="Select by Rectangle" id="SelectbyRect"
+                         title="Select by Rectangle" class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_draw_freeline.png" alt="Select by Freehand Polyline" id="SelectbyPloyline"
+                         title="Select by Freehand Polyline" class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_draw_freepoly.png" alt="Select by Freehand Polygon" id="SelectbyPolygon"
+                         title="Select by Freehand Polygon" class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_searchclear.png" alt="Clear Graphics" id="ClearGraphics"
+                         title="Clear Graphics" class="buttonclass" />
+                </td>
+            </tr>
+        </table>
+    </div>-->
+
+    <div id="SearchDialog" title="Search Tools" style="display: none; font-size: 12px;">
+        <table style="width: 100%; height: 100%">
+            <tr>
+                <td style="width: 100px">
+                    District :
+                </td>
+                <td>
+                    <select id="ddlDistrict" style="padding: 5px; width: 250px; font-size: 11px;"></select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Taluk :
+                </td>
+                <td>
+                    <select id="ddlTaluk" style="padding: 5px; width: 250px; font-size: 11px;"></select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td style="text-align: right;">
+                    <input id="btnZoomtoDistirct" type="button"
+                           value="Search" style="padding: 3px; width: 100px; font-weight: bold;" />
+                    <input id="btnClose" type="button"
+                           value="Close" style="padding: 3px; width: 100px; font-weight: bold;" />
+                </td>
+
+            </tr>
+        </table>
+    </div>
+
+
+    <!--  Navigation Tools-->
+    <div id="NavigationTools" title="Navigation Tools" style="font-size: 12px;">
+        <table style="width: 100%; height: 100%">
+            <tr>
+                <td>
+                    <img src="images/Icons/i_zoomin.png" alt="Zoom In" id="ZoomInTool" title="ZoomIn"
+                         class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_zoomout.png" alt="Zoom Out" id="ZoomOutTool" title="ZoomOut"
+                         class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_pan.png" alt="Pan" id="panTool" title="Pan" class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_zoomfull.png" alt="Full Extent" id="zoomfullext" title="Zoom to Full Extent"
+                         class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_zoomprevious.png" id="zoomtoPrevExtent" title="Zoom to Previous Extent"
+                         alt="zoom To Previous Extent" class="buttonclass" />
+                </td>
+                <td>
+                    <img src="images/Icons/i_zoomnext.png" id="zoomtoNextExtent" title="Zoom to Next Extent"
+                         alt="zoom To Next Extent" class="buttonclass" />
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="KarnatakaParcelViewer.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     <title>Agriculture</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <%--  Bootstrap Css Files--%>
+    <link href="jslogin/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="jslogin/bootstrap/css/bootstrap-theme.css" rel="stylesheet" />
+
+      <%--  jqueryui Css Files--%>
+    <link href="jslogin/jquery-ui/jquery-ui.css" rel="stylesheet" />
+    <link href="jslogin/jquery-ui/jquery-ui.theme.css" rel="stylesheet" />
+    <%-- Font-Awesome Css--%>
+    <link href="jslogin/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+
+    <%--  metisMenu css--%>
+    <link href="jslogin/metisMenu/metisMenu.css" rel="stylesheet" />
+
+    <%--Sb-Admin Css File--%>
+    <link href="jslogin/sb-admin/css/sb-admin-2.css" rel="stylesheet" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <%--Jquery.js file--%>
+    <script src="jslogin/jquery/jquery-1.11.3.min.js"></script>
+    <%-- Bootstrap.js file--%>
+    <script src="jslogin/bootstrap/js/bootstrap.min.js"></script>
+    <%--  Metismenu js file--%>
+    <script src="jslogin/metisMenu/metisMenu.js"></script>
+      <script src="jslogin/jquery-ui/jquery-ui.js"></script>
+    <%-- SB-Admin.js file--%>
+    <script src="jslogin/sb-admin/js/sb-admin-2.js"></script>
+
+    <style>
+        .gradient {
+  background-image:
+    linear-gradient(
+      #4f7a93,#0f96e5
+    );
+}
+          body{   
+              background-size:120% auto;        
+            background-image:url("Blog-4-1400x699.jpg");
+            background-repeat: repeat-x;
+    
+        }
+    </style>
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="jumbotron gradient" style="padding:5px;margin:0px;border-radius:0;"/>
+               <h4 style="color:#ffffff;font-family:  Verdana Arial;font-size:x-large;font-weight:600;">WELCOME TO AGRICULTURE WEB GIS PORTAL</h4>
+                </div>
+                </div>
+
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+    </form>
+     <footer>
+       <div class="col-md-2"></div>
+        <div class="col-md-6">
+      <%--  <h3 style="font-size: small; color:#000000;"> Copyright&copy <%:DateTime.Now.Year %>, Mysuru Urban Development Authority | All Rights Reserved</h3>--%>
+            
+            </div>
+    </footer>
+</body>
+</html>

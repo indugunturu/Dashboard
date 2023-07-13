@@ -1,0 +1,227 @@
+﻿html, body {
+    font-family: Verdana,Arial,sans-serif !important;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+}
+
+#divMap {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+/*layout*/
+.ui-layout-pane {
+    background: #808080;
+    border-width: 0;
+}
+
+.ui-layout-center {
+    background: #808080;
+    padding: 0;
+    /*background-image:url(Blog-4-1400x699.jpg);*/
+    
+}
+
+    .ui-layout-center > .wrapper {
+        padding: 10px;
+    }
+
+
+
+/*.pane ui-layout-south {
+    height: 500px !important;
+}*/
+
+.ui-layout-south {           
+  height:300px !important;
+  width:600px  !important;
+}
+.ui-layout-east {           
+ width:600px !important;
+ height:100% !important;
+}
+.ui-layout-north {
+    border-bottom-width: 1px;
+}
+
+.ui-layout-west {
+    border-bottom-width: 1px;
+    padding: 0;
+    width: 5px;
+}
+/*end legend layout css*/
+
+#JqGrid {
+    z-index: 999 !important;
+}
+
+
+
+
+
+/*Header and  main toolbar*/
+.headerIcon {
+    background-color: transparent;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 0;
+    left: 5px;
+    z-index: 9999;
+}
+
+.header {
+    background-color: transparent;
+    color: #F5F5DC;
+    background-repeat: no-repeat;
+    background-position: left top;
+    height: 75px;
+    top: 20px;
+    left: 70px;
+    position: absolute;
+    z-index: 100;
+}
+
+
+#MainMenu {
+    float: right;
+}
+
+.buttonclass {
+    vertical-align: middle;
+    cursor: pointer;
+    text-align: center;
+    width: 25px;
+    padding: 5px;
+    border: none !important;
+    border-radius: 5px; /* future proofing */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; /* for old Konqueror browsers */
+    opacity: 0.85;
+    filter: alpha(opacity=85); /* For IE8 and earlier */
+}
+
+.buttonClassAfterHover {
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+.buttonclassOnHover {
+    background-color: #A9A9A9 !important;
+    background-image: url("images/titlebar.png") !important;
+}
+
+/*end main tool bar css*/
+
+.dropdownlist {
+    border: 1px solid #e2e2e2;
+    background: #fff;
+    color: #333;
+    font-size: 1.1em;
+    margin: 3px 0 3px 0;
+    padding: 2px;
+    width: 180px;
+    text-align: left !important;
+}
+
+
+
+
+
+
+/*Header and  main toolbar*/
+.headerIcon {
+    background-color: transparent;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 0;
+    left: 5px;
+    z-index: 9999;
+}
+
+.header {
+    background-color: transparent;
+    color: #F5F5DC;
+    background-repeat: no-repeat;
+    background-position: left top;
+    height: 75px;
+    top: 20px;
+    left: 70px;
+    position: absolute;
+    z-index: 100;
+}
+
+
+#MainMenu {
+    float: right;
+}
+
+.buttonclass {
+    vertical-align: middle;
+    cursor: pointer;
+    text-align: center;
+    width: 25px;
+    padding: 5px;
+    border: none !important;
+    border-radius: 5px; /* future proofing */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; /* for old Konqueror browsers */
+    opacity: 0.85;
+    filter: alpha(opacity=85); /* For IE8 and earlier */
+}
+
+.buttonClassAfterHover {
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+.buttonclassOnHover {
+    background-color: #A9A9A9 !important;
+    background-image: url("images/titlebar.png") !important;
+}
+
+/*end main tool bar css*/
+
+.buttonClassAfterHover {
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+.buttonclassOnHover {
+    background-color: #A9A9A9 !important;
+    background-image: url("images/titlebar.png") !important;
+}
+
+
+.ui-widget-header, .ui-widget, .ui-widget button {
+    font-family: Verdana,Arial,sans-serif !important;
+    font-size: 12px !important;
+}
+
+.ui-dialog {
+    margin-left: 20px !important;
+    margin-top: 60px !important;
+    font-size: 10px !important;
+}
+/*#HomeButton{
+    position:absolute;
+    z-index:50;
+    top:150px;
+    left:20px;
+    width:50px;
+}*/
+.ui-layout-content {
+    /*height:20px !important;*/
+    background-color:black !important;
+    right:0px !important;
+    /*background-image:url('Blog-4-1400x699.jpg')*/ 
+}
